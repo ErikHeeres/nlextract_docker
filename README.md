@@ -8,7 +8,7 @@ docker build nlextract -t nlextract
 ```
 
 ## Set configfile
-Change configfile in NLExtract code. This file is located in:
+Change configfile in NLExtract code. This file is located at:
 > /nlextract-1.4.0/bag/extract.conf
 
 MacOS example:
