@@ -1,5 +1,5 @@
 # nlextract_docker
-Docker for running NLextract 
+Docker for running NLextract, all datasets should work (BGT/BAG etc). 
 
 ## Build image
 From the Dockerfile, create the image using: 
