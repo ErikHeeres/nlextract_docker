@@ -2,6 +2,7 @@
 Docker for running NLextract 
 
 ## Build image
+From the Dockerfile, create the image using: 
 > docker build nlextract -t nlextract
 
 ## Set configfile
